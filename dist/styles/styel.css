@@ -1,0 +1,27 @@
+:root{
+    --rojo: #e63946;
+}
+body{
+    background-color: #fca311;
+}
+/*
+.o-scroll {
+    background-color: #000000;
+    overflow: hidden
+}
+
+*/
+img{
+    width: 100%;
+}
+.c-summary_text{
+    font-size: 30px;
+}
+@media(max-width: 500px){
+    .list{
+        display: none;
+    }
+}
+.hold_menu{
+    display: none;
+}
